@@ -1,0 +1,28 @@
+.body-bg-color{
+    background-color: #FBEFEB;
+}
+.sliderimage-bg-info{
+    background-color: #88b8d9;
+}
+.footer-icon{
+    font-size: 20px;
+}
+.footer-icon, .fa-facebook-square{
+    color: rgb(24, 151, 255);
+}
+.footer-icon, .fa-instagram{
+    color: rgb(255, 0, 200);
+}
+.booking-btn-color{
+    background-image: linear-gradient(rgb(57, 199, 255), rgb(28, 100, 255));
+    border-radius: 5px;
+    border: none;
+    color: whitesmoke;
+    padding: 5px 10px;
+    font-weight: 600;
+    box-shadow: 5px 5px  10px gray;
+}
+footer{
+    background-color: #efddf1;
+    padding: 20px;
+}
